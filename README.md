@@ -7,10 +7,10 @@ Contact: Amin Avan, amin.avan@ontariotechu.net
 Each workload has parameters including:
 
 * `NumberOfTask`: shows How many tasks are in the workload. 
-* WorkloadUtilization: shows how much is the utilization of the workload.
-* Execution Time: shows the execution time of each task.
-* Deadline: shows the deadline of each task.
-* Time Period: shows the period of each task.
+* `WorkloadUtilization`: shows how much is the utilization of the workload.
+* `Execution Time`: shows the execution time of each task.
+* `Deadline`: shows the deadline of each task.
+* `Time Period`: shows the period of each task.
 
 We assume that the "period" equals the "deadline".
 
