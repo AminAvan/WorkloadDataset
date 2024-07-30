@@ -2,7 +2,7 @@
 
 This workload dataset currently consists of one-hundred overloaded workloads with different tasks.
 
-Contact: Amin Avan, amin.avan@ontariotechu.net
+Contact: Amin Avan (amin.avan@ontariotechu.net)
 
 ## Description
 Each workload has parameters including:
