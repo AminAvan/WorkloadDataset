@@ -36,3 +36,16 @@ According to the example,
 	* Execution time: 4
 	* Deadline: 20
 	* Period: 20
+
+## Citation
+If you use this dataset for your research, please cite our paper [A Robust Scheduling Algorithm for Overload-Tolerant Real-Time Systems](https://ieeexplore.ieee.org/document/10197026)
+```
+@inproceedings{avan2023robust,
+  title={A Robust Scheduling Algorithm for Overload-Tolerant Real-Time Systems},
+  author={Avan, Amin and Azim, Akramul and Mahmoud, Qusay H},
+  booktitle={2023 IEEE 26th International Symposium on Real-Time Distributed Computing (ISORC)},
+  pages={1--10},
+  year={2023},
+  organization={IEEE}
+}
+```
